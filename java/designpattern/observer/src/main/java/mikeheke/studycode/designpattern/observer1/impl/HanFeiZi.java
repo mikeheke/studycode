@@ -35,12 +35,12 @@ public class HanFeiZi implements IHanFeiZi ,Observable {
 	public void haveBreakfast() {
 		String context = "HanFeiZi is having breakfast...";
 		//System.out.println(context);
-		
 		this.notifyObservers(context);
 	}
 
 	public void haveFun() {
 		String context = "HanFeizi is having fun...";
+		//System.out.println(context);
 		this.notifyObservers(context);
 	}
 

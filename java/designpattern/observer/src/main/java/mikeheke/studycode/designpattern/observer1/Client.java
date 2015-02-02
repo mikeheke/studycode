@@ -1,10 +1,24 @@
 package mikeheke.studycode.designpattern.observer1;
 
+import mikeheke.studycode.designpattern.observer1.impl.ChenSi;
+import mikeheke.studycode.designpattern.observer1.impl.HanFeiZi;
+import mikeheke.studycode.designpattern.observer1.impl.LiSi;
+
 public class Client {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		Observer lisi = new LiSi();
+		Observer chensi = new ChenSi();
+		
+		HanFeiZi hanfeizi = new HanFeiZi();
+		
+		hanfeizi.addObserver(lisi);
+		hanfeizi.addObserver(chensi);
+		
+		hanfeizi.haveBreakfast();
+		
+		hanfeizi.haveFun();
 	}
 
 }
