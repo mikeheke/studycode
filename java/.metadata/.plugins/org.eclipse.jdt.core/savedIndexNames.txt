@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/home/mike/gitwork/mikegit/studycode/java/.metadata/.plugins/org.eclipse.jdt.core
+3770138511.index

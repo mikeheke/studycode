@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_yrsLkLQbEeSgsPy-ODGLwA" name="NewModel">
+  <packagedElement xmi:type="uml:Interface" xmi:id="_5Rv5kLQbEeSgsPy-ODGLwA" name="BeanFactory"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_rjCRYLQcEeSgsPy-ODGLwA" name="AutowireCapableBeanFactory">
+    <generalization xmi:id="_AD_M8LQdEeSgsPy-ODGLwA" general="_5Rv5kLQbEeSgsPy-ODGLwA"/>
+    <nestedClassifier xmi:type="uml:Interface" xmi:id="_1IB1sLQcEeSgsPy-ODGLwA" name="AutowireCapableBeanFactory"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_HEzkULQdEeSgsPy-ODGLwA" name="HierarchicalBeanFactory">
+    <generalization xmi:id="_O5iE4LQdEeSgsPy-ODGLwA" general="_5Rv5kLQbEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_TpyH0LQdEeSgsPy-ODGLwA" name="ListableBeanFactory">
+    <generalization xmi:id="_YxiEwLQdEeSgsPy-ODGLwA" general="_5Rv5kLQbEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_gDXToLQdEeSgsPy-ODGLwA" name="SimpleJndiBeanFactory">
+    <interfaceRealization xmi:id="_o4zDQLQdEeSgsPy-ODGLwA" client="_gDXToLQdEeSgsPy-ODGLwA" supplier="_5Rv5kLQbEeSgsPy-ODGLwA" contract="_5Rv5kLQbEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_DyzLkLQeEeSgsPy-ODGLwA" name="ApplicationContext">
+    <generalization xmi:id="_IZPyQLQeEeSgsPy-ODGLwA" general="_TpyH0LQdEeSgsPy-ODGLwA"/>
+    <generalization xmi:id="_jdwvMLQjEeSgsPy-ODGLwA" general="_HEzkULQdEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_NwY2ELQeEeSgsPy-ODGLwA" name="ConfigurableListableBeanFactory">
+    <generalization xmi:id="_UIg1wLQeEeSgsPy-ODGLwA" general="_TpyH0LQdEeSgsPy-ODGLwA"/>
+    <generalization xmi:id="_2wsKsLQeEeSgsPy-ODGLwA" general="_rjCRYLQcEeSgsPy-ODGLwA"/>
+    <generalization xmi:id="_nZf9QLQpEeSgsPy-ODGLwA" general="_uQ794LQjEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_aTmfALQeEeSgsPy-ODGLwA" name="StaticListableBeanFactory">
+    <interfaceRealization xmi:id="_fjUFILQeEeSgsPy-ODGLwA" client="_aTmfALQeEeSgsPy-ODGLwA" supplier="_TpyH0LQdEeSgsPy-ODGLwA" contract="_TpyH0LQdEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_uQ794LQjEeSgsPy-ODGLwA" name="ConfigurableBeanFactory">
+    <generalization xmi:id="_0NbxgLQjEeSgsPy-ODGLwA" general="_HEzkULQdEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="__N5OQLQjEeSgsPy-ODGLwA" name="AbstractAutowireCapableBeanFactory" isAbstract="true">
+    <interfaceRealization xmi:id="_HGwn8LQkEeSgsPy-ODGLwA" client="__N5OQLQjEeSgsPy-ODGLwA" supplier="_rjCRYLQcEeSgsPy-ODGLwA" contract="_rjCRYLQcEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_h_-GELQkEeSgsPy-ODGLwA" name="ConfigurableApplicationContext">
+    <generalization xmi:id="_pYaTQLQkEeSgsPy-ODGLwA" general="_DyzLkLQeEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_qI7KMLQkEeSgsPy-ODGLwA" name="WebApplicationContext">
+    <generalization xmi:id="_vxvz4LQkEeSgsPy-ODGLwA" general="_DyzLkLQeEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_19iyULQlEeSgsPy-ODGLwA" name="DefaultListableBeanFactory">
+    <generalization xmi:id="_eCZOgLQqEeSgsPy-ODGLwA" general="__N5OQLQjEeSgsPy-ODGLwA"/>
+    <interfaceRealization xmi:id="_-RQ8ALQlEeSgsPy-ODGLwA" client="_19iyULQlEeSgsPy-ODGLwA" supplier="_NwY2ELQeEeSgsPy-ODGLwA" contract="_NwY2ELQeEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_BtkG8LQqEeSgsPy-ODGLwA" name="AbstractBeanFactory">
+    <interfaceRealization xmi:id="_HTi4ALQqEeSgsPy-ODGLwA" client="_BtkG8LQqEeSgsPy-ODGLwA" supplier="_uQ794LQjEeSgsPy-ODGLwA" contract="_uQ794LQjEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_8DWgsLQqEeSgsPy-ODGLwA" name="AbstractApplicationContext" isAbstract="true">
+    <interfaceRealization xmi:id="_H2_G0LQrEeSgsPy-ODGLwA" client="_8DWgsLQqEeSgsPy-ODGLwA" supplier="_h_-GELQkEeSgsPy-ODGLwA" contract="_h_-GELQkEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_DxM9MLQrEeSgsPy-ODGLwA" name="Package1"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_L5rgMLQrEeSgsPy-ODGLwA" name="ConfigurableWebApplicationContext">
+    <generalization xmi:id="_UzKpYLQrEeSgsPy-ODGLwA" general="_h_-GELQkEeSgsPy-ODGLwA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_8W0yILQxEeSgsPy-ODGLwA" name="AbstractRefreshableApplicationContext" isAbstract="true">
+    <generalization xmi:id="_TyAqMLQyEeSgsPy-ODGLwA" general="_8DWgsLQqEeSgsPy-ODGLwA"/>
+  </packagedElement>
+</uml:Model>
