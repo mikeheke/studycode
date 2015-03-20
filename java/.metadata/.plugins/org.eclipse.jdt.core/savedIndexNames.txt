@@ -14,7 +14,6 @@ INDEX VERSION 1.127+/home/mike/gitwork/mikegit/studycode/java/.metadata/.plugins
 415202913.index
 3770138511.index
 855065523.index
-2212440541.index
 1158464082.index
 2280817007.index
 4110192584.index
