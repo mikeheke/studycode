@@ -34,4 +34,9 @@ public class CeilingFan {
 	public int getSpeed() {
 		return this.speed;
 	}
+	
+	public void display() {
+		System.out.println("CeilingFan: "+this.location
+							+", speed: "+this.speed);
+	}
 }

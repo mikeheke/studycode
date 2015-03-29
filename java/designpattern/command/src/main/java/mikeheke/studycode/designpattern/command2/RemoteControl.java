@@ -38,7 +38,7 @@ public class RemoteControl {
 		undoCommand.undo();
 	}
 	
-	public String toString() {
+	public void display() {
 		StringBuffer buf = new StringBuffer("\n----------Remote Control----------\n");
 		
 		for (int i=0; i<onCommands.length; i++) {
@@ -46,6 +46,6 @@ public class RemoteControl {
 			buf.append(offCommands[i].getClass().getSimpleName()+"\n");
 		}
 		
-		return buf.toString();
+		System.out.println(buf.toString());
 	}
 }

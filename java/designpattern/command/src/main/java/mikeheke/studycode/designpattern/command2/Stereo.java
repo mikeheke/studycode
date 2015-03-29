@@ -1,28 +1,32 @@
 package mikeheke.studycode.designpattern.command2;
 
-public class Light {
+public class Stereo {
 
 	public String name;
 	
 	public String state;
 	
-	public Light(String name) {
+	public int volume;
+	
+	public Stereo(String name) {
 		this.name = name;
 		this.state = ConstantUtils.OFF;
+		this.volume = 20;
 	}
 
 	public void on() {
-		System.out.println("Light is on.");
+		System.out.println("Stereo is on.");
 		this.state = ConstantUtils.ON;
 	}
 	
 	public void off() {
-		System.out.println("Light is off.");
+		System.out.println("Stereo is off.");
 		this.state = ConstantUtils.OFF;
 	}
 	
 	public void display() {
-		System.out.println("Light: "+this.name
-							+", state: "+this.state);
+		System.out.println("Stereo: "+this.name
+							+", state: "+this.state
+							+", volume: "+this.volume);
 	}
 }

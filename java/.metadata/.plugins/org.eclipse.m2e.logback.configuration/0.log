@@ -4670,3 +4670,347 @@
 2015-03-29 14:41:23,664 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
 2015-03-29 14:41:23,666 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-03-29 14:41:23,666 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:07:19,273 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:07:19,273 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:07:19,275 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:07:19,276 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:07:45,732 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:07:45,733 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:07:45,735 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:07:45,735 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:08:47,017 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:08:47,017 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:08:47,019 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:08:47,019 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:09:56,533 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:09:56,534 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:09:56,536 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:09:56,536 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:10:07,947 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:10:07,947 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:10:07,949 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:10:07,950 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:10:52,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:10:52,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:10:52,987 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:10:52,987 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:11:08,233 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:11:08,233 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:11:08,235 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:11:08,236 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:11:49,171 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:11:49,172 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:11:49,175 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:11:49,176 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:12:04,629 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:12:04,629 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:12:04,631 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:12:04,631 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:12:20,513 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:12:20,513 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:12:20,514 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:12:20,515 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:12:36,050 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:12:36,051 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:12:36,053 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:12:36,053 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:13:15,283 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:13:15,283 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:13:15,285 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:13:15,285 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:13:25,392 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:13:25,393 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:13:25,395 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:13:25,395 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:13:41,021 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:13:41,021 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:13:41,023 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:13:41,023 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:14:07,764 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:14:07,764 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:14:07,766 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:14:07,767 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:14:37,898 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:14:37,899 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:14:37,902 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:14:37,902 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:15:07,418 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:15:07,418 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:15:07,419 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:15:07,419 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:15:47,861 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:15:47,861 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:15:47,863 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:15:47,863 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:15:52,063 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:15:52,063 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:15:52,064 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:15:52,065 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:15:58,238 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:15:58,238 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:15:58,240 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:15:58,241 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:16:05,885 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:16:05,885 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:16:05,886 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:16:05,887 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:16:22,130 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:16:22,130 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:16:22,133 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:16:22,134 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:16:31,924 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:16:31,924 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:16:31,926 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:16:31,926 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:16:42,532 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:16:42,532 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:16:42,534 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:16:42,534 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:17:04,825 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:17:04,825 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:17:04,827 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:17:04,827 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:17:28,708 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:17:28,709 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:17:28,710 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:17:28,710 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:17:54,762 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:17:54,763 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:17:54,766 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:17:54,766 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:18:07,974 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:18:07,974 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:18:07,975 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:18:07,976 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:18:15,543 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:18:15,544 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:18:15,545 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:18:15,546 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:19:15,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:19:15,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:19:15,180 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:19:15,180 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:19:17,874 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:19:17,875 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:19:17,879 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:19:17,879 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:19:31,090 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:19:31,090 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:19:31,092 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:19:31,093 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:20:15,771 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:20:15,771 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:20:15,773 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:20:15,774 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:20:47,045 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:20:47,045 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:20:47,046 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:20:47,046 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:21:23,488 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:21:23,488 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:21:23,490 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:21:23,490 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:21:26,697 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:21:26,697 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:21:26,700 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:21:26,701 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:22:53,337 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:22:53,338 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:22:53,340 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:22:53,340 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:22:59,261 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:22:59,261 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:22:59,262 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:22:59,263 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:23:42,725 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:23:42,725 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:23:42,726 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:23:42,726 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:24:20,422 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:24:20,422 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:24:20,424 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:24:20,424 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:24:23,261 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:24:23,261 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:24:23,262 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:24:23,263 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:24:59,679 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:24:59,680 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:24:59,682 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:24:59,682 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:26:21,248 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:26:21,248 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:26:21,250 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:26:21,250 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:26:23,680 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:26:23,680 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:26:23,682 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:26:23,683 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:27:16,799 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:27:16,799 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:27:16,801 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:27:16,801 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:27:19,560 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:27:19,560 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:27:19,563 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:27:19,563 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:27:52,745 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:27:52,745 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:27:52,746 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:27:52,746 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:28:20,824 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:28:20,824 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:28:20,826 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:28:20,826 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:28:42,804 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:28:42,804 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:28:42,806 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:28:42,806 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:29:00,662 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:29:00,663 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:29:00,664 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:29:00,665 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:29:26,135 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:29:26,135 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:29:26,137 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:29:26,137 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:29:28,231 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:29:28,231 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:29:28,232 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:29:28,233 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:30:13,245 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:30:13,246 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:30:13,247 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:30:13,247 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:30:14,338 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:30:14,338 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:30:14,339 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:30:14,339 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:30:50,776 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:30:50,777 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:30:50,778 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:30:50,778 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:30:52,839 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:30:52,839 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:30:52,841 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:30:52,841 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:32:08,468 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:32:08,468 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:32:08,469 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:32:08,470 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:32:16,625 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:32:16,625 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:32:16,626 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:32:16,626 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:32:22,918 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:32:22,918 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:32:22,920 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:32:22,920 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:33:11,007 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:33:11,008 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:33:11,010 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:33:11,010 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:34:09,372 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:34:09,373 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:34:09,374 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:34:09,374 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:34:32,933 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:34:32,933 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:34:32,935 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:34:32,935 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:34:43,369 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:34:43,369 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:34:43,371 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:34:43,371 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:34:46,953 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:34:46,954 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:34:46,955 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:34:46,955 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:35:05,797 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:35:05,797 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:35:05,799 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:35:05,799 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:35:18,623 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:35:18,623 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:35:18,625 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:35:18,625 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:36:42,791 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:36:42,791 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:36:42,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:36:42,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:37:03,262 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:37:03,263 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:37:03,264 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:37:03,264 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:39:08,784 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:39:08,784 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:39:08,786 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:39:08,787 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:39:22,090 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:39:22,091 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:39:22,092 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:39:22,092 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:39:25,142 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:39:25,142 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:39:25,144 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:39:25,144 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:39:29,279 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:39:29,279 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:39:29,281 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:39:29,281 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:40:26,523 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:40:26,523 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:40:26,526 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:40:26,526 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:41:48,173 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:41:48,173 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:41:48,175 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:41:48,175 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:42:28,474 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:42:28,475 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:42:28,478 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:42:28,478 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:42:34,296 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:42:34,297 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:42:34,300 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:42:34,301 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:43:41,224 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:43:41,224 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:43:41,225 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:43:41,225 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:44:21,844 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:44:21,844 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:44:21,846 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:44:21,846 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 21:44:34,404 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:44:34,404 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 21:44:34,407 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 21:44:34,407 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 22:36:45,343 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:36:45,343 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 22:36:45,344 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:36:45,345 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 22:37:16,034 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:37:16,035 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 22:37:16,037 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:37:16,037 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 22:38:36,461 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:38:36,461 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 22:38:36,463 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:38:36,463 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 22:38:48,315 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:38:48,316 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 22:38:48,318 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:38:48,318 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 22:38:51,457 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:38:51,458 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 22:38:51,461 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:38:51,461 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 22:39:04,948 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:39:04,948 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 22:39:04,950 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:39:04,950 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources
+2015-03-29 22:39:19,531 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:39:19,531 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/main/resources
+2015-03-29 22:39:19,533 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-03-29 22:39:19,534 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mike/gitwork/mikegit/studycode/java/designpattern/command/src/test/resources

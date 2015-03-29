@@ -48,4 +48,11 @@ public class Tv {
 		buf.append("volume: "+this.volume+" ");
 		return buf.toString();
 	}
+	
+	public void display() {
+		System.out.println("TV: "+this.name
+							+", state: "+this.state
+							+", channel: "+this.channel
+							+", volume: "+this.volume);
+	}
 }
