@@ -3,7 +3,7 @@ package mikeheke.studycode.designpattern.decorator1;
 public class DecoratorClient1 {
 
 	public static void main(String[] args) {
-int $aa;
+
 		Coffee blackCoffee = new BlackCoffee();
 		Coffee houseCoffee = new HouseCoffee();
 		Coffee italianCoffee = new ItalianCoffee();

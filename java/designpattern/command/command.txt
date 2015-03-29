@@ -4,3 +4,6 @@
 请求者与接收者进行解藕
 
 依赖，耦合
+
+receiver
+execute()
